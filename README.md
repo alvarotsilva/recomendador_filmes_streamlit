@@ -80,7 +80,6 @@ A connection string está embutida no arquivo `recomendador.py`.
 
 ---
 
-## 📧 Autor
-
-Desenvolvido por [Seu Nome].  
+## 📧 Autor: 
+Desenvolvido por Álvaro Tavares - 01/08/2025.  
 Para sugestões ou melhorias, entre em contato!
